@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Staatliches&family=Yanone+Kaffeesatz:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/****Estilos Encabezado****/
+header{
+    background-color: rgb(247, 247, 247);
+}
+
+a{
+
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(142, 171, 221);
+    font-size: 22px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bolder;
+    padding: 10px 20px;
+}
+
+a:hover{
+    background-color:  rgb(142, 171, 221);
+    color: rgb(247, 247, 247);
+    -moz-transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+    transition: 0.5s ease;
+}
+
+
