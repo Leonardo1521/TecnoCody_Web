@@ -1,0 +1,6 @@
+/****Estilos para movil****/
+@media only screen and (max-width: 700px){
+    a{
+        font-size: 6px;
+    }
+}
