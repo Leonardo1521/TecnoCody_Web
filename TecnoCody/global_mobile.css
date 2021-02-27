@@ -3,6 +3,10 @@
        background-color: #010101;
   }
   
+  header.mobile{
+     background-color: rgb(247, 247, 247);
+
+  }
   a.link-mobile{
        font-size: 15px;
   }
