@@ -4,7 +4,8 @@
   }
   
   header.mobile{
-     background-color: rgb(247, 247, 247);
+     width: 100%;
+     background-color: #F1F1F1;
 
   }
   a.link-mobile{
