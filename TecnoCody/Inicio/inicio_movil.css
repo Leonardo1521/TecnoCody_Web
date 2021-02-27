@@ -1,4 +1,16 @@
-/****Estilos para movil****/
-@media screen and (min-width: 260px) and (min-height: 640px){
-    
+@media only screen and (max-width: 600px) {
+  form.mobile{
+      background-color: unset;
+      width: 440px;
+      height: auto;
+      margin: 10px -80px;
+      border-radius: 20px;
+  }
+
+  p.mobile{
+      font-size: 32px;
+      padding-top: 15px;
+      text-align: center;
+      margin-left: 60px;
+  }
 }
